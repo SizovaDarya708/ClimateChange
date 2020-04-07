@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollBot", "PollBot\PollBot.csproj", "{D14CAE1B-1F25-47F3-9BDF-7E7BA139C91E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14CAE1B-1F25-47F3-9BDF-7E7BA139C91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14CAE1B-1F25-47F3-9BDF-7E7BA139C91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14CAE1B-1F25-47F3-9BDF-7E7BA139C91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14CAE1B-1F25-47F3-9BDF-7E7BA139C91E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B36C0C36-DA08-449A-8F36-271A356DA8B3}
+	EndGlobalSection
+EndGlobal
